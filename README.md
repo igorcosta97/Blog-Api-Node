@@ -1,4 +1,4 @@
-# blog
+# Api Blog - Crud em Node
 
 CRUD COM EXPRESS E PRISMA 
 
